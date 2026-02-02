@@ -1,0 +1,17 @@
+# Skill packages (distributed .skill files)
+*.skill
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test output
+test/
+tests/
